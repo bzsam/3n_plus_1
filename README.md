@@ -1,1 +1,1 @@
-# 3n_plus_1
+# Visual representation for the 3N+1 problem
